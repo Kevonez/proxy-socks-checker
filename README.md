@@ -1,7 +1,8 @@
 # proxy-socks-checker
-This script is for checking proxy/socks to see if its working or not. It will create a new text file with all of working proxies/socks checked. Enjoy :D
+This script is for checking proxy/socks to see if its working or not. It will create a new text file with all of working proxies/socks checked. 
+It will also check for duplicate and will only select use 1. Enjoy :D
 
-make a new file called proxies.txt and put all of your proxy inside.
+make a new file called proxy.txt and put all of your proxy/socks inside.
 
 Usage: python check.py
 
