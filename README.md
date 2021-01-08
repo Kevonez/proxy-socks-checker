@@ -4,6 +4,8 @@ It will also check for duplicate and will only select use 1. Enjoy :D
 
 make a new file called proxy.txt and put all of your proxy/socks inside.
 
+Before using(cmd): pip install requests re
+
 Usage: python check.py
 
 or
